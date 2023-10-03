@@ -1,0 +1,15 @@
+/* Styling */
+body {
+    background-color: rgb(152, 135, 135);
+    color: rgb(123, 8, 8); /* font - colour */
+}
+h3 {
+     color: yellow;
+     font-size: 38px;
+}
+p {
+    color: rgb(39, 24, 169);
+}
+div {
+background-color: lightgreen;
+}
